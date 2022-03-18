@@ -1,0 +1,15 @@
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Score\obj\Debug\Score.csprojAssemblyReference.cache
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Score\obj\Debug\Score.csproj.CoreCompileInputs.cache
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Score\bin\Debug\Score.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Score\bin\Debug\Score.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Score\bin\Debug\Ship.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Score\bin\Debug\World.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Score\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Score\bin\Debug\Vector2D.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Score\bin\Debug\Ship.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Score\bin\Debug\World.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Score\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Score\bin\Debug\Vector2D.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Score\obj\Debug\Score.csproj.CopyComplete
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Score\obj\Debug\Score.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Score\obj\Debug\Score.pdb

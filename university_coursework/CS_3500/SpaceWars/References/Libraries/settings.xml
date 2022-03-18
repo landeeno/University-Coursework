@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<SpaceSettings>
+  <UniverseSize>750</UniverseSize>
+  <MSPerFrame>16</MSPerFrame>
+  <FramesPerShot>6</FramesPerShot>
+  <RespawnRate>10</RespawnRate> 
+  <Star>
+    <x>0</x>
+    <y>0</y>
+    <mass>0.2</mass>
+  </Star>
+  <ProjectileSpeed>16</ProjectileSpeed>
+  <EngineStrength>8</EngineStrength>
+  <TurningRate>4</TurningRate>
+  <ShipSize>20</ShipSize>
+  <StarSize>35</StarSize>
+  <StartingHP>6</StartingHP>
+  <ExtraGameMode>true</ExtraGameMode>
+  
+  
+  
+
+
+<!-- We can add other stars too (or none) 
+  <Star>
+    <x>100</x>
+    <y>100</y>
+    <mass>0.005</mass>
+  </Star>
+ -->
+</SpaceSettings>

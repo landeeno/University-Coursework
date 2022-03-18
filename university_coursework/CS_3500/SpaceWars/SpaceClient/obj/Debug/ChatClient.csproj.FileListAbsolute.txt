@@ -1,0 +1,12 @@
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceClient\bin\Debug\SpaceClient.exe.config
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceClient\bin\Debug\SpaceClient.exe
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceClient\bin\Debug\SpaceClient.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceClient\bin\Debug\NetworkController.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceClient\bin\Debug\NetworkController.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceClient\obj\Debug\SpaceClient.Properties.Resources.resources
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceClient\obj\Debug\ChatClient.csproj.CopyComplete
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceClient\obj\Debug\SpaceClient.exe
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceClient\obj\Debug\SpaceClient.pdb

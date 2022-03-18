@@ -1,0 +1,14 @@
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceTesting\bin\Debug\SpaceTesting.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceTesting\bin\Debug\SpaceTesting.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceTesting\obj\Debug\SpaceTesting.csprojAssemblyReference.cache
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceTesting\obj\Debug\SpaceTesting.csproj.CoreCompileInputs.cache
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceTesting\obj\Debug\SpaceTesting.csproj.CopyComplete
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceTesting\obj\Debug\SpaceTesting.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\SpaceTesting\obj\Debug\SpaceTesting.pdb

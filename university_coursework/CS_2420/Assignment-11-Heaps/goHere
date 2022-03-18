@@ -1,0 +1,16 @@
+digraph Heap {
+	node [shape=record]
+	node1 [label = "<f0> |<f1> 1|<f2> "]
+	node1:f0 -> node2:f1
+	node1:f2 -> node3:f1
+	node2 [label = "<f0> |<f1> 6|<f2> "]
+	node2:f0 -> node4:f1
+	node2:f2 -> node5:f1
+	node3 [label = "<f0> |<f1> 3|<f2> "]
+	node3:f0 -> node6:f1
+	node4 [label = "<f0> |<f1> 7|<f2> "]
+	node5 [label = "<f0> |<f1> 8|<f2> "]
+	node6 [label = "<f0> |<f1> 5|<f2> "]
+}
+//--------------------------------------------
+// Any other info you want to put about your heap

@@ -1,0 +1,10 @@
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Vector2D\bin\Debug\Vector2D.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Vector2D\bin\Debug\Vector2D.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Vector2D\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Vector2D\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Vector2D\obj\Debug\Vector2D.csproj.CoreCompileInputs.cache
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Vector2D\obj\Debug\Vector2D.csproj.CopyComplete
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Vector2D\obj\Debug\Vector2D.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Vector2D\obj\Debug\Vector2D.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Vector2D\obj\Debug\Vector2D.csprojAssemblyReference.cache
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Vector2D\bin\Debug\Newtonsoft.Json.pdb

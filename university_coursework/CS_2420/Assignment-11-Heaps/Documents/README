@@ -1,0 +1,81 @@
+---------------------------------------------------------------
+AUTHOR INFORMATION
+---------------------------------------------------------------
+
+Date:				04/13/2017
+Assignment:			Assignment 11 - Heaps
+Partner 1 Name:		Michelle Simmons
+Partner 1 UID: 		u0871595
+Partner 2 Name: 	Landon Crowther
+Partner 2 UID: 		u0926601
+Class: 				CS 2420
+
+
+---------------------------------------------------------------
+Project Summary
+---------------------------------------------------------------
+
+In Heaps, we wrote methods required for proper functionality 
+of a priority queue. This priority queue works by making a 
+virtual tree to keep track of proper ordering while the actual
+ordering is occurring in an array. We also implemented a heap
+sort, which wouldn't usually be included in the functionality
+of a heap class because it goes against the rules of the ordering
+of a heap. 
+
+---------------------------------------------------------------
+Late Work
+---------------------------------------------------------------
+
+n/a
+
+---------------------------------------------------------------
+Notes to TA
+---------------------------------------------------------------
+
+Both partners prefer camelCase styling over snake_case styling.
+That being said, all of our code was written with camelCase, and
+we left the original code as is. 
+
+---------------------------------------------------------------
+Pledge
+---------------------------------------------------------------
+
+I pledge that the work done here was my own and that I have 
+learned how to write this program (such that I could throw 
+it out and restart and finish it in a timely manner).  
+I am not turning in any work that I cannot understand, 
+describe, or recreate.  Any sources (e.g., web sites) other
+than the lecture that I used to help write the code are cited 
+in my work.  When working with a partner, I have contributed
+an equal share and understand all the submitted work.  
+Further, I have helped write all the code assigned as 
+pair-programming and reviewed all code that was written separately.
+	-- Michelle Simmons
+	-- Landon Crowther
+	
+---------------------------------------------------------------
+Design Decisions
+---------------------------------------------------------------
+
+ We wrote helper methods for sink & swim (bubble-down and bubble-
+ up). We also wrote some simple helper methods for getting the 
+ parent or children of nodes in the tree representation (actually
+ referenced to the index of the array where the object was stored).
+ The last helper method we wrote was a dequeue meant specifically
+ for our heap_sort(). The only difference between this method and 
+ the regular dequeue is that it doesn't override dequeued elements
+ with null. 
+ We also wrote an additional constructor for Heap that takes in 
+ a heap as a parameter and initializes the new heap to be identical
+ to the parameter heap. This was to make our timing code simpler.
+
+---------------------------------------------------------------
+Problems Encountered & Solutions
+---------------------------------------------------------------
+
+The hardest method was the sink method. It works according to 
+our implementation, yet there is room for streamlining. The 
+multiple nested if statements may have been reduced with better
+logical implementation. 
+

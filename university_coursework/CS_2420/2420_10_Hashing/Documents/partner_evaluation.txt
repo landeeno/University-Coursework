@@ -1,0 +1,21 @@
+---- partner evaluation file -----
+Homework 10 - Partner Evaluation
+My Name: Landon Crowther
+Date:    Apr. 07, 2017
+
+Hours Worked on Project: 8
+
+Partner Score: 3 
+
+Group Analysis:  
+
+Nathan and I were able to work very quickly and efficiently on this project. 
+We were very good at taking turns writing code, as to make sure
+that we both could talk through the methods and logic involved.
+
+Fortunately, this assignment did not take too long, and we could 
+finish in a timely manner without too much trouble. Nathan and I have
+worked together in the past, and fortunately were able to work
+together again. Our schedules matched up pretty well, and we were
+very consistent at making progress throughout the assignment. 
+----------------------------------

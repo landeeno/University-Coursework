@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{39A1EF05-9B71-4B14-BB9D-09ADC0B27CA8}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>References</RootNamespace>
+    <AssemblyName>References</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Libraries\Images\Ships\ship-coast-blue.png" />
+    <Content Include="Libraries\Images\Ships\ship-coast-brown.png" />
+    <Content Include="Libraries\Images\Ships\ship-coast-green.png" />
+    <Content Include="Libraries\Images\Ships\ship-coast-grey.png" />
+    <Content Include="Libraries\Images\Ships\ship-coast-red.png" />
+    <Content Include="Libraries\Images\Ships\ship-coast-violet.png" />
+    <Content Include="Libraries\Images\Ships\ship-coast-white.png" />
+    <Content Include="Libraries\Images\Ships\ship-coast-yellow.png" />
+    <Content Include="Libraries\Images\Thrust\ship-thrust-blue.png" />
+    <Content Include="Libraries\Images\Thrust\ship-thrust-brown.png" />
+    <Content Include="Libraries\Images\Thrust\ship-thrust-green.png" />
+    <Content Include="Libraries\Images\Thrust\ship-thrust-grey.png" />
+    <Content Include="Libraries\Images\Thrust\ship-thrust-red.png" />
+    <Content Include="Libraries\Images\Thrust\ship-thrust-violet.png" />
+    <Content Include="Libraries\Images\Thrust\ship-thrust-white.png" />
+    <Content Include="Libraries\Images\Thrust\ship-thrust-yellow.png" />
+    <Content Include="Libraries\Images\Proj\shot-blue.png" />
+    <Content Include="Libraries\Images\Proj\shot-brown.png" />
+    <Content Include="Libraries\Images\Proj\shot-green.png" />
+    <Content Include="Libraries\Images\Proj\shot-grey.png" />
+    <Content Include="Libraries\Images\Proj\shot-red.png" />
+    <Content Include="Libraries\Images\Proj\shot-violet.png" />
+    <Content Include="Libraries\Images\Proj\shot-white.png" />
+    <Content Include="Libraries\Images\Proj\shot-yellow.png" />
+    <Content Include="Libraries\Images\star.jpg" />
+    <Content Include="Libraries\settings.xml" />
+    <Content Include="README.txt" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

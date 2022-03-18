@@ -1,0 +1,2 @@
+Hi this is a file of words without any punctuation so it should be easy to parse
+there can be uppercase lowercase comparison issues

@@ -1,0 +1,6 @@
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\NetworkController\bin\Debug\NetworkController.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\NetworkController\bin\Debug\NetworkController.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\NetworkController\obj\Debug\NetworkController.csprojAssemblyReference.cache
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\NetworkController\obj\Debug\NetworkController.csproj.CoreCompileInputs.cache
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\NetworkController\obj\Debug\NetworkController.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\NetworkController\obj\Debug\NetworkController.pdb

@@ -1,0 +1,57 @@
+Parker Stewart
+U1001540
+February 9, 2017
+CS 2420
+Assingment 4
+Partner: Landon Crowther
+
+Landon Crowther
+U0926601
+February 9, 2017
+CS 2420
+Assingment 4
+Partner: Parker Stewart
+
+
+------------------------------
+Pledge
+------------------------------
+
+I pledge that the work done here was my own and that I have learned how to write this program, 
+such that I could throw it out and restart and finish it in a timely manner. I am not turning 
+in any work that I cannot understand, describe, or recreate. I further acknowledge that I 
+contributed substantially to all code handed in and vouch for it's authenticity. 
+-- Parker Stewart
+-- Landon Crowther
+
+
+------------------------------
+General Info & Idiosyncrasies
+------------------------------
+
+The helper method stringToCharacter is not actually tested in the AnagramUtilTest class, 
+because it is indirectly tested when the sort method is tested. 
+
+
+We converted everything to lowercase in both the sort() method and the
+getLargestAnagramGroup() method. This was necessary because not all of the
+words in the words_english file were lowercase
+
+
+For timing, we made a separate class that automates the timing process
+for all the methods stated in the assignment description. The user just
+has to run the code and give the computer sufficient time to run, and the 
+console will produce clearly labeled values that can be copied and pasted
+into a graphing program.
+
+------------------------------
+Design Decisions & Features
+------------------------------
+
+We utilized the generic method insertionSort() when we 
+created the sort() method. Instead of making a new sort which follows
+the same insertionSort logic, we converted the String parameter to a
+Character[] array, and utilized the insertionSort method to re-arrange
+the characters in alphabetical order. (also in Javadoc)
+
+

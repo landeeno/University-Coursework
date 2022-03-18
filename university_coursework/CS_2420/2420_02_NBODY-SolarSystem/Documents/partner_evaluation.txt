@@ -1,0 +1,44 @@
+---- partner evaluation file -----
+Homework 2 - Partner Evaluation
+My Name: Landon Crowther
+Partner: Brent Collins
+Date:    Jan. 26, 2017
+
+Hours Worked on Project: 15-20 hours
+
+Partner Score: #3 (Maybe 3.5 ish)
+
+--Partner Did--
+My partner and I seemed to work very well together. By the 
+time we met up, we both had a pretty solid foundation on
+the project, and were at about the same point as far as progress
+goes. 
+
+The two of us spent quite a few hours in the CADE lab working on the
+project, and that's where the majority of the work came from. We both 
+took a method one step at a time, and were both trying on our own computers
+and talking each other through our thought process. We would also 
+periodically stop working to write out the steps required for certain methods.
+
+At the end of the day, we were pretty stuck and decided to call it a day.
+I woke up to an email saying he went home and was able to get the 
+simulation working, which I was stoked about. We continued to work on 
+the project, and eventually finished it.
+
+I gave my partner a 3.5 score, because although we did the majority of the
+work together, there were a few things he spent a good chunk of time on. 
+Likewise, there were other things I spent time on, but I want to give credit
+where credit is due. 
+
+Group Analysis:  
+
+Our group worked/didn't work because.....
+----------------------------------
+
+Our group worked out pretty well because we were both very ambitious
+to complete the project to the fulllest extent. We also were able to 
+spend 4-6 hours together in the CADE lab, and in that time we got the
+majority of the project learned. Each time one of us figured out how
+to correctly implement a method, we would stop and teach the other 
+person. This helped solidify the knowledge and ultimately better our skills.
+      

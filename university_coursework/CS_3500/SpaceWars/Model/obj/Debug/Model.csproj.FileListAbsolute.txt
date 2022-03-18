@@ -1,0 +1,16 @@
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Model\bin\Debug\Model.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Model\bin\Debug\Model.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Model\bin\Debug\Ship.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Model\bin\Debug\Vector2D.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Model\bin\Debug\World.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Model\bin\Debug\Ship.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Model\bin\Debug\Vector2D.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Model\bin\Debug\World.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Model\obj\Debug\Model.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Model\obj\Debug\Model.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\Model\bin\Debug\Newtonsoft.Json.pdb

@@ -1,0 +1,22 @@
+How to write Median of 3
+Swap the large element and the middle element in the last part of the array, adding one
+extra step to compare them 
+Using the same code over and over again for quick sort^ 
+Can do that if you add it to the read me^
+
+Rewrite the partition code that you started like that^
+Two valid options
+
+CS 50 quick sort harvard
+
+
+Merge Sort: how do we call it recursively? 
+How do we alter the low and high parameters
+
+
+How do you call the functions ??? And use sort_utils to test? And add them to the sorter in main?
+Will the M3 method work? Confused on the pivots and if they need to be removed they way they are currently, 
+or copies should be made? 
+
+Do we need to put the psueodo code for each sort at the top of the program even though it is in the
+java doc?

@@ -1,0 +1,85 @@
+README: 
+
+---------------------------------------------------------------
+AUTHOR INFORMATION
+---------------------------------------------------------------
+
+Date:				03/23/17
+Assignment:			Assignment 08 - Stochastic Processes
+Partner 1 Name:		Landon Crowther
+Partner 1 UID: 		u0926601
+Partner 2 Name: 	Parker Stewart
+Partner 2 UID: 		u1001540
+Class: 				CS 2420
+
+
+---------------------------------------------------------------
+Project Summary
+---------------------------------------------------------------
+This project used poker (5-card and texas hold em) to explore
+the concept of stochastic analysis. We simulated a variety of poker
+hands, and ranked them by the rules of poker. We then computed the
+percentages that these hands occurred, and compared them to the 
+mathematical percentage (exhaustive computation - the odds that a
+certain hand can happen out of all possible hands).
+
+As the amount of samples increased, it was noted that the difference
+between the stochastic results and exhaustive results decreased to 
+where there was a negligible difference.
+
+---------------------------------------------------------------
+Late Work
+---------------------------------------------------------------
+
+n/a
+
+---------------------------------------------------------------
+Notes to TA
+---------------------------------------------------------------
+
+n/a
+
+---------------------------------------------------------------
+Pledge
+---------------------------------------------------------------
+
+I pledge that the work done here was my own and that I have 
+learned how to write this program (such that I could throw 
+it out and restart and finish it in a timely manner).  
+I am not turning in any work that I cannot understand, 
+describe, or recreate.  Any sources (e.g., web sites) other
+than the lecture that I used to help write the code are cited 
+in my work.  When working with a partner, I have contributed
+an equal share and understand all the submitted work.  
+Further, I have helped write all the code assigned as 
+pair-programming and reviewed all code that was written separately.
+	-- Landon Crowther
+	-- Parker Stewart
+	
+---------------------------------------------------------------
+Design Decisions
+---------------------------------------------------------------
+We used enum classes for the suits and the ranks of the cards
+and used the ordinals of those enum values to help us compute
+the hand ranks.
+
+One of the methods that ended up being quite complicated 
+was the texas hold em analysis. Because this method had to compare
+every possible two-card combination to every other possible two card
+combination, we had to utilize a key value data structure where the
+key represented a "map" that refernced which start hand was stored, and 
+the value represented the "score" it got when compared to every other class
+(see Timing_Accuracy and javadoc for more details)
+	
+---------------------------------------------------------------
+Problems Encountered & Solutions
+---------------------------------------------------------------
+Overall our main issue throughout the assignment was understanding
+what exactly the directions were asking for, and then figuring out
+the best way to execute the code. Once we had an idea of how we 
+were going to design the methods, the assignment was fairly straight
+forward. We ran into a few issues when we would forget tiny parts 
+of code and then spend a long time trying to find the bug. 
+
+
+

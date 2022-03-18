@@ -1,0 +1,14 @@
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\World\bin\Debug\World.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\World\bin\Debug\World.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\World\bin\Debug\Ship.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\World\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\World\bin\Debug\Vector2D.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\World\bin\Debug\Ship.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\World\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\World\bin\Debug\Vector2D.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\World\obj\Debug\World.csprojAssemblyReference.cache
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\World\obj\Debug\World.csproj.CoreCompileInputs.cache
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\World\obj\Debug\World.csproj.CopyComplete
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\World\obj\Debug\World.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\World\obj\Debug\World.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\World\bin\Debug\Newtonsoft.Json.pdb

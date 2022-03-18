@@ -1,0 +1,26 @@
+---- partner evaluation file -----
+Homework 3 - Partner Evaluation
+My Name: Landon Crowther
+Partner: Brent Collins
+Date:    Feb. 2, 2017
+
+Hours Worked on Project: 15-20 hours
+
+Partner Score: #3 
+
+--Partner Did--
+
+I worked with the same partner as last assignment. We were able to 
+effectively get all of the work done and tidy up the algorithms. 
+
+Group Analysis:  
+
+Our group worked/didn't work because.....
+----------------------------------
+
+We were both ambitious and wanted to get the assignment done to the
+fullest specifications. We spent hours running tests and 
+adding comments to make sure that the code was as
+clear as possible and that everything functioned in a 
+clean manner. 
+      

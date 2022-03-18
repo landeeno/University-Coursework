@@ -1,0 +1,7 @@
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\References\bin\Debug\References.dll.config
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\References\bin\Debug\References.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\References\bin\Debug\References.pdb
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\References\obj\Debug\References.csprojAssemblyReference.cache
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\References\obj\Debug\References.csproj.CoreCompileInputs.cache
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\References\obj\Debug\References.dll
+C:\Users\lando\Source\Repos\u09123312\SpaceWars\References\obj\Debug\References.pdb
